@@ -1,0 +1,1 @@
+framework module libavfilter { umbrella header "avfilter.h"; export *; module * { export * } }

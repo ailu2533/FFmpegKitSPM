@@ -1,0 +1,1 @@
+framework module libavdevice { umbrella header "avdevice.h"; export *; module * { export * } }
