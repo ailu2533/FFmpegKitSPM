@@ -1,1 +1,5 @@
-framework module libswscale { umbrella header "swscale.h"; export *; module * { export * } }
+framework module libswscale {
+    umbrella header "swscale.h"
+    export *
+    module * { export * }
+}

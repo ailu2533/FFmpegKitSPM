@@ -1,1 +1,5 @@
-framework module libavformat { umbrella header "avformat.h"; export *; module * { export * } }
+framework module libavformat {
+    umbrella header "avformat.h"
+    export *
+    module * { export * }
+}
